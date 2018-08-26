@@ -1,5 +1,7 @@
 # Scrapism
 
+(draft syllabus)
+
 **Instructor:** [Sam Lavigne](http://lav.io) | [splavigne@gmail.com](mailto:splavigne@gmail.com)  
 **Teaching Assistant:** TBD  
 **Track:** Code Poetry, Fall 2018  
