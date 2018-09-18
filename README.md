@@ -7,7 +7,7 @@
 **Track:** Code Poetry, Fall 2018  
 **Location:** [School for Poetic Computation](http://sfpc.io/) | 155 Bank St, New York, NY 10014  
 **Time:** Tuesdays 10am to 1pm  
-**Office Hours:** Tuesdays 2pm to 4pm (or by appointment)
+**Office Hours:** Tuesdays 2pm to 4pm (or by appointment) . 
 **Class Notes:** [link](https://paper.dropbox.com/folder/show/Class-Notes-e.1gg8YzoPEhbTkrhvQwJ2zz3XJBcZkbceseDnY854qf9k5dPQtUC2)
 
 Scrapism is the artistic practice of web scraping, or of automatically collecting and transforming found digital material. It hinges upon a combination of curatorial practice, reverse engineering, and hoarding mentality. In this class students will learn how to scrape massive quantities of material from the internet with Python, and then use that material to make poetic, satirical, critical, political projects. Each session we will cover a different web scraping technique, with production assignments relating to text, image and video. We will explore surrealist, dadaist, situationist techniques such as detournement, collage, and cut-ups, and apply them to a contemporary digital context.
