@@ -24,7 +24,7 @@ Introductions. Using the terminal. Basic python. Reading lines.
 * [A User’s Guide to Détournement](http://www.bopsecrets.org/SI/detourn.htm)
 
 #### Assignment
-* Find one to three sentences (or phrases) in the wild. Your sentences could come from the internet or the real world, from a book, a store sign, a facebook post, a news article, product packaging, or from a restaurant menu. Anything is fine, but you must not write it yourself. Be prepared to read what you have found next week in class.  
+* Find three sentences (or phrases) in the wild. Your sentences could come from the internet or the real world, from a book, a store sign, a facebook post, a news article, product packaging, or from a restaurant menu. Anything is fine, but you must not write it yourself. Be prepared to recite what you have found next week in class.  
 
 ---
 
