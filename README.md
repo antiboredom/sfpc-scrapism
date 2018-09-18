@@ -18,9 +18,13 @@ Scrapism is the artistic practice of web scraping, or of automatically collectin
 Introductions. Using the terminal. Basic python. Reading lines.
 
 #### Readings  
-* Tech reading 1 TBD
+* [Intro to the command line](https://github.com/antiboredom/sfpc-scrapism/blob/master/reader-01-the-command-line.md)
+* [Python basics](https://github.com/antiboredom/sfpc-scrapism/blob/master/reader-02-python-basics.md)
 * [Artificial Hells (introduction and chapter 1)](https://selforganizedseminar.files.wordpress.com/2011/08/bishop-claire-artificial-hells-participatory-art-and-politics-spectatorship.pdf) By Claire Bishop
 * [A User’s Guide to Détournement](http://www.bopsecrets.org/SI/detourn.htm)
+
+#### Assignment
+* Find one to three sentences (or phrases) in the wild. Your sentences could come from the internet or the real world, from a book, a store sign, a facebook post, a news article, product packaging, or from a restaurant menu. Anything is fine, but you must not write it yourself. Be prepared to read what you have found next week in class.  
 
 ---
 
