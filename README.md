@@ -36,6 +36,9 @@ Python part 2. Manipulating text. Automating writing.
 * Tech reading 2 TBD  
 * [The Cut Up Method](http://www.writing.upenn.edu/~afilreis/88v/burroughs-cutup.html) by William Burroughs
 
+#### Assignment
+* Transform a non-poetic text into a poetic text using Python. It is up to you to determine how and why a text is poetic or non-poetic. If you are stuck, try techniques like sorting, randomizing, filtering, deleting, or replacing.
+
 ---
 
 ### 3. October 2nd
